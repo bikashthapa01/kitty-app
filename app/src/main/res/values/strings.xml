@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kitty App</string>
+    <string name="api_url">https://api.thecatapi.com/v1/images/search</string>
+</resources>
